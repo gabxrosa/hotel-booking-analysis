@@ -44,7 +44,7 @@ O projeto tem como objetivo analisar os fatores que influenciam a demanda e o ca
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/Hotel_booking_demand_Analysis.git
+   git clone https://github.com/gabxrosa/Hotel_booking_demand_Analysis.git
    ```
 2. Instale as dependências necessárias:
 
